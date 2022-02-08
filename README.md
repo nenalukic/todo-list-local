@@ -6,4 +6,4 @@ The application does not have any back end and is not storing changes.
 
 ## Usage
 
-Click here to view the application in GitHub pages. 
+Click [here](https://nenalukic.github.io/todo-list-local/) to view the application in GitHub pages. 
