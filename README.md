@@ -6,4 +6,15 @@ The application does not have any back end and is not storing changes.
 
 ## Usage
 
-Click [here](https://nenalukic.github.io/todo-list-local/) to view the application in GitHub pages. 
+While in application directory, to run the applicatin open a terminal and type:
+```
+nodemon
+```
+Then open a browser and type:
+```
+localhost:3000
+```
+Then play by adding items to the list or deleting them.
+
+## Forecast example
+![image](images/todo-list-app.png?raw=true)
