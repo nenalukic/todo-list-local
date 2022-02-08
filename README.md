@@ -16,5 +16,5 @@ localhost:3000
 ```
 Then play by adding items to the list or deleting them.
 
-## Forecast example
+## ToDo List App sample
 ![image](images/todo-list-app.png?raw=true)
