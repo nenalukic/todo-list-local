@@ -18,3 +18,7 @@ Then play by adding items to the list or deleting them.
 
 ## ToDo List App sample
 ![image](images/todo-list-app.png?raw=true)
+
+## Acknowledgment
+
+I created this project while studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
